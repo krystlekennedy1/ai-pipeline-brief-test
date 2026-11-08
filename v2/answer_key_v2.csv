@@ -1,0 +1,57 @@
+opp_id,rule,expected_action,note
+OPP-2003,PAST_DUE_CLOSE,FLAG,Open deal with close date before today
+OPP-2006,PAST_DUE_CLOSE,FLAG,Open deal with close date before today
+OPP-2008,DATE_ORDER,FLAG,Last activity date is earlier than created date
+OPP-2011,STALLED,FLAG,"Late stage, no activity in 31+ days"
+OPP-2012,STALLED,FLAG,"Exactly 30 days idle, boundary case that meets the 30 or more rule"
+OPP-2015,MISSING_NEXT_STEP,DO_NOT_FLAG,"Early stage with empty next step, rule only covers Proposal/Negotiation"
+OPP-2020,MISSING_NEXT_STEP,FLAG,"Next step is only a blank space, which counts as empty"
+OPP-2021,POSSIBLE_DUPLICATE,FLAG,"Same account and amount as OPP-2059, both open"
+OPP-2022,STALLED,DO_NOT_FLAG,"29 days idle, one day under the threshold"
+OPP-2024,STALLED,FLAG,"Late stage, no activity in 31+ days"
+OPP-2032,PAST_DUE_CLOSE,FLAG,Open deal with close date before today
+OPP-2035,PAST_DUE_CLOSE,DO_NOT_FLAG,"Close date is today, not past due"
+OPP-2038,PAST_DUE_CLOSE,FLAG,Open deal with close date before today
+OPP-2045,MISSING_NEXT_STEP,FLAG,Multi-issue deal: stalled and missing next step
+OPP-2045,STALLED,FLAG,Multi-issue deal: stalled and missing next step
+OPP-2048,PAST_DUE_CLOSE,FLAG,Multi-issue deal: past due and stalled
+OPP-2048,STALLED,FLAG,Multi-issue deal: past due and stalled
+OPP-2054,STALLED,FLAG,"Late stage, no activity in 31+ days"
+OPP-2055,POSSIBLE_DUPLICATE,DO_NOT_FLAG,Same account as OPP-2152 but different amount
+OPP-2058,STALLED,FLAG,"Late stage, no activity in 31+ days"
+OPP-2059,POSSIBLE_DUPLICATE,FLAG,"Same account and amount as OPP-2021, both open"
+OPP-2060,LARGE_DEAL_AT_RISK,DO_NOT_FLAG,"Only 13 days idle, under the 14 day threshold"
+OPP-2064,MISSING_NEXT_STEP,DO_NOT_FLAG,"Early stage with empty next step, rule only covers Proposal/Negotiation"
+OPP-2066,POSSIBLE_DUPLICATE,FLAG,"Same account and amount as OPP-2167, both open"
+OPP-2068,POSSIBLE_DUPLICATE,DO_NOT_FLAG,"Matches closed deal OPP-2116, only open pairs count"
+OPP-2075,MISSING_NEXT_STEP,FLAG,Proposal/Negotiation with empty next step
+OPP-2086,LARGE_DEAL_AT_RISK,FLAG,"Over $200K, closes within 30 days, idle 14+ days"
+OPP-2091,MISSING_NEXT_STEP,FLAG,Proposal/Negotiation with empty next step
+OPP-2093,DATE_ORDER,NEEDS_HUMAN_LOOK,"last_activity_date is blank, cannot test date order"
+OPP-2094,LARGE_DEAL_AT_RISK,DO_NOT_FLAG,"Closes in 31 days, outside the 30 day window"
+OPP-2096,STALLED,FLAG,"Late stage, no activity in 31+ days (stage is lowercase in the source data)"
+OPP-2097,MISSING_NEXT_STEP,FLAG,Proposal/Negotiation with empty next step
+OPP-2102,PAST_DUE_CLOSE,FLAG,Open deal with close date before today
+OPP-2109,DATE_ORDER,FLAG,Last activity date is earlier than created date
+OPP-2110,POSSIBLE_DUPLICATE,NEEDS_HUMAN_LOOK,"Near-duplicate account name with OPP-2133, same amount"
+OPP-2113,MISSING_NEXT_STEP,NEEDS_HUMAN_LOOK,"Next step is a placeholder ('see notes'), not truly empty"
+OPP-2116,POSSIBLE_DUPLICATE,DO_NOT_FLAG,"Closed deal, ignore"
+OPP-2122,STALLED,DO_NOT_FLAG,"29 days idle, one day under the threshold"
+OPP-2127,LARGE_DEAL_AT_RISK,FLAG,"Over $200K, closes within 30 days, idle 14+ days"
+OPP-2128,LARGE_DEAL_AT_RISK,DO_NOT_FLAG,"Amount is exactly $200,000, not over $200K"
+OPP-2130,LARGE_DEAL_AT_RISK,FLAG,Multi-issue deal: large at risk and stalled
+OPP-2130,STALLED,FLAG,Multi-issue deal: large at risk and stalled
+OPP-2133,POSSIBLE_DUPLICATE,NEEDS_HUMAN_LOOK,"Near-duplicate account name with OPP-2110, same amount"
+OPP-2135,LARGE_DEAL_AT_RISK,FLAG,"Over $200K, closes within 30 days, idle 14+ days"
+OPP-2147,PAST_DUE_CLOSE,DO_NOT_FLAG,"Close date is today, not past due"
+OPP-2148,MISSING_NEXT_STEP,DO_NOT_FLAG,"Early stage with empty next step, rule only covers Proposal/Negotiation"
+OPP-2150,MISSING_NEXT_STEP,DO_NOT_FLAG,"Early stage with empty next step, rule only covers Proposal/Negotiation"
+OPP-2152,POSSIBLE_DUPLICATE,DO_NOT_FLAG,Same account as OPP-2055 but different amount
+OPP-2154,MISSING_NEXT_STEP,NEEDS_HUMAN_LOOK,"Next step is a placeholder ('TBD'), not truly empty"
+OPP-2157,DATE_ORDER,FLAG,Last activity date is earlier than created date
+OPP-2166,STALLED,FLAG,"Late stage, no activity in 31+ days"
+OPP-2167,POSSIBLE_DUPLICATE,FLAG,"Same account and amount as OPP-2066, both open"
+OPP-2171,MISSING_NEXT_STEP,DO_NOT_FLAG,"Early stage with empty next step, rule only covers Proposal/Negotiation"
+OPP-2173,MISSING_NEXT_STEP,FLAG,Proposal/Negotiation with empty next step (stage is lowercase in the source data)
+OPP-2178,LARGE_DEAL_AT_RISK,FLAG,"Exactly 14 days idle, boundary case that meets the 14 or more rule"
+OPP-2179,MISSING_NEXT_STEP,DO_NOT_FLAG,"Early stage with empty next step, rule only covers Proposal/Negotiation"

@@ -1,0 +1,57 @@
+Weekly Pipeline Brief, as of Nov 7, 2026
+Headline: Five deals over $200K are set to close within the next 30 days with no recent activity, and one of them, Halcyon Logistics ($310K), has been silent for 33 days. Combined with 10 stalled late-stage deals, the late-stage pipeline needs touches this week.
+Top 3 actions
+Call the five large deals closing by Nov 29 this week: OPP-2130 Halcyon Logistics (Tariq Aziz), OPP-2127 Harbor Systems (Devon Park), OPP-2086 Northwind Foods (Priya Nair), OPP-2135 Tidewater Labs (Marcus Hill), OPP-2178 Evergreen Systems (Lena Ortiz). Halcyon is also stalled, so start there.
+Fix or close out the 6 past-due deals: OPP-2003 Ironwood Labs (Priya Nair, 33 days late), OPP-2032 Summit Health (Sofia Reyes), OPP-2102 Pioneer Retail (Priya Nair), OPP-2006 Redwood Retail (Avery Chen), OPP-2048 Larkspur Retail (Marcus Hill), OPP-2038 Juniper Health (Tariq Aziz). Each needs a new close date or a Closed Lost.
+Get a next step on the 6 blank-step deals: OPP-2075 Juniper Labs (Avery Chen), OPP-2097 Larkspur Labs (Lena Ortiz), OPP-2045 Silverline Systems (Sofia Reyes, also stalled 45 days), OPP-2020 Larkspur Logistics (Tariq Aziz), OPP-2091 Juniper Media (Sofia Reyes), OPP-2173 Bluepeak Systems (Jordan Blake).
+Flagged deals
+opp_id	account	owner	amount	issue type	evidence
+OPP-2130	Halcyon Logistics	Tariq Aziz	$310,000	LARGE_DEAL_AT_RISK	close 2026-11-16 (9 days out), last activity 2026-10-05, 33 days ago
+OPP-2127	Harbor Systems	Devon Park	$340,000	LARGE_DEAL_AT_RISK	close 2026-11-27 (20 days out), last activity 2026-10-19, 19 days ago
+OPP-2086	Northwind Foods	Priya Nair	$260,000	LARGE_DEAL_AT_RISK	close 2026-11-29 (22 days out), last activity 2026-10-22, 16 days ago
+OPP-2135	Tidewater Labs	Marcus Hill	$260,000	LARGE_DEAL_AT_RISK	close 2026-11-26 (19 days out), last activity 2026-10-20, 18 days ago
+OPP-2178	Evergreen Systems	Lena Ortiz	$220,000	LARGE_DEAL_AT_RISK	close 2026-11-22 (15 days out), last activity 2026-10-24, 14 days ago
+OPP-2130	Halcyon Logistics	Tariq Aziz	$310,000	STALLED	Negotiation, last activity 2026-10-05, 33 days ago
+OPP-2054	Westbrook Labs	Tariq Aziz	$120,000	STALLED	Proposal, last activity 2026-09-30, 38 days ago
+OPP-2166	Summit Media	Avery Chen	$30,000	STALLED	Proposal, last activity 2026-09-02, 66 days ago
+OPP-2096	Westbrook Retail	Avery Chen	$30,000	STALLED	proposal, last activity 2026-09-04, 64 days ago
+OPP-2058	Foxglove Systems	Marcus Hill	$15,000	STALLED	Negotiation, last activity 2026-09-09, 59 days ago
+OPP-2045	Silverline Systems	Sofia Reyes	$30,000	STALLED	Proposal, last activity 2026-09-23, 45 days ago
+OPP-2011	Alder Media	Lena Ortiz	$24,000	STALLED	Negotiation, last activity 2026-09-30, 38 days ago
+OPP-2048	Larkspur Retail	Marcus Hill	$24,000	STALLED	Proposal, last activity 2026-09-30, 38 days ago
+OPP-2024	Northwind Health	Sofia Reyes	$15,000	STALLED	Proposal, last activity 2026-10-02, 36 days ago
+OPP-2012	Redwood Energy	Devon Park	$24,000	STALLED	Proposal, last activity 2026-10-08, 30 days ago
+OPP-2003	Ironwood Labs	Priya Nair	$30,000	PAST_DUE_CLOSE	close 2026-10-05, 33 days ago
+OPP-2032	Summit Health	Sofia Reyes	$12,000	PAST_DUE_CLOSE	close 2026-10-09, 29 days ago
+OPP-2102	Pioneer Retail	Priya Nair	$18,000	PAST_DUE_CLOSE	close 2026-10-21, 17 days ago
+OPP-2006	Redwood Retail	Avery Chen	$42,000	PAST_DUE_CLOSE	close 2026-10-19, 19 days ago
+OPP-2048	Larkspur Retail	Marcus Hill	$24,000	PAST_DUE_CLOSE	close 2026-10-26, 12 days ago
+OPP-2038	Juniper Health	Tariq Aziz	$18,000	PAST_DUE_CLOSE	close 2026-10-27, 11 days ago
+OPP-2075	Juniper Labs	Avery Chen	$90,000	MISSING_NEXT_STEP	Negotiation, next step blank
+OPP-2097	Larkspur Labs	Lena Ortiz	$75,000	MISSING_NEXT_STEP	Proposal, next step blank
+OPP-2045	Silverline Systems	Sofia Reyes	$30,000	MISSING_NEXT_STEP	Proposal, next step blank
+OPP-2020	Larkspur Logistics	Tariq Aziz	$15,000	MISSING_NEXT_STEP	Negotiation, next step blank (spaces only)
+OPP-2091	Juniper Media	Sofia Reyes	$8,000	MISSING_NEXT_STEP	Proposal, next step blank
+OPP-2173	Bluepeak Systems	Jordan Blake	$8,000	MISSING_NEXT_STEP	proposal, next step blank
+OPP-2021	Foxglove Logistics	Marcus Hill	$30,000	POSSIBLE_DUPLICATE	same account and amount as OPP-2059
+OPP-2059	Foxglove Logistics	Priya Nair	$30,000	POSSIBLE_DUPLICATE	same account and amount as OPP-2021
+OPP-2066	Driftwood Foods	Sofia Reyes	$30,000	POSSIBLE_DUPLICATE	same account and amount as OPP-2167
+OPP-2167	Driftwood Foods	Avery Chen	$30,000	POSSIBLE_DUPLICATE	same account and amount as OPP-2066
+OPP-2008	Bluepeak Energy	Tariq Aziz	$75,000	DATE_ORDER	last activity 2026-10-22 is before created 2026-10-25
+OPP-2109	Keystone Systems	Devon Park	$30,000	DATE_ORDER	last activity 2026-10-21 is before created 2026-10-26
+OPP-2157	Vantage Labs	Devon Park	$18,000	DATE_ORDER	last activity 2026-10-23 is before created 2026-10-31
+Needs a human look (not flagged)
+OPP-2093 Alder Energy (Sofia Reyes): last activity date is blank, so activity-based rules cannot be tested.
+OPP-2113 Ironwood Systems (Lena Ortiz): Proposal stage, next step reads “see notes”, which is a placeholder and not clearly blank.
+OPP-2154 Harbor Logistics (Jordan Blake): Negotiation stage, next step reads “TBD”, also a placeholder.
+OPP-2110 Silverline Health Inc (Sofia Reyes) and OPP-2133 Silverline Health (Avery Chen): both $18,000, but the account names are not identical.
+Just outside the large-deal rule: OPP-2128 Foxglove Labs is exactly $200,000 (rule needs over), and OPP-2060 Alder Systems ($230,000, close 2026-11-19) has 13 days since activity (rule needs 14). Neither is flagged.
+Counts (160 open deals reviewed; 20 closed deals ignored)
+STALLED: 10
+PAST_DUE_CLOSE: 6
+MISSING_NEXT_STEP: 6
+LARGE_DEAL_AT_RISK: 5
+POSSIBLE_DUPLICATE: 4 rows (2 pairs)
+DATE_ORDER: 3
+Total flagged rows: 34 (OPP-2130, OPP-2045 and OPP-2048 each hit two rules, so 31 distinct deals)
+Stage names were matched ignoring capitalization, so the two lowercase “proposal” deals (OPP-2096, OPP-2173) are included.

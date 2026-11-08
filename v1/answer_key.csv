@@ -1,0 +1,23 @@
+opp_id,planted_issue,why_it_should_be_flagged
+OPP-1003,MISSING_NEXT_STEP,Late stage deal with no next step recorded
+OPP-1010,MISSING_NEXT_STEP,Late stage deal with no next step recorded
+OPP-1013,PAST_DUE_CLOSE,Open deal with close date already in the past
+OPP-1014,STALLED,Late stage (Proposal/Negotiation) with no activity in 30+ days
+OPP-1015,MISSING_NEXT_STEP,Late stage deal with no next step recorded
+OPP-1016,MISSING_NEXT_STEP,Late stage deal with no next step recorded
+OPP-1023,STALLED,Late stage (Proposal/Negotiation) with no activity in 30+ days
+OPP-1024,POSSIBLE_DUPLICATE,Same account and amount as OPP-1080
+OPP-1041,MISSING_NEXT_STEP,Late stage deal with no next step recorded
+OPP-1047,STALLED,Late stage (Proposal/Negotiation) with no activity in 30+ days
+OPP-1053,LARGE_DEAL_AT_RISK,"Amount over $200K, closing within 30 days, no activity in 14+ days"
+OPP-1068,LARGE_DEAL_AT_RISK,"Amount over $200K, closing within 30 days, no activity in 14+ days"
+OPP-1079,PAST_DUE_CLOSE,Open deal with close date already in the past
+OPP-1080,POSSIBLE_DUPLICATE,Same account and amount as OPP-1024
+OPP-1084,PAST_DUE_CLOSE,Open deal with close date already in the past
+OPP-1093,STALLED,Late stage (Proposal/Negotiation) with no activity in 30+ days
+OPP-1095,STALLED,Late stage (Proposal/Negotiation) with no activity in 30+ days
+OPP-1121,LARGE_DEAL_AT_RISK,"Amount over $200K, closing within 30 days, no activity in 14+ days"
+OPP-1122,STALLED,Late stage (Proposal/Negotiation) with no activity in 30+ days
+OPP-1126,PAST_DUE_CLOSE,Open deal with close date already in the past
+OPP-1145,MISSING_NEXT_STEP,Late stage deal with no next step recorded
+OPP-1150,PAST_DUE_CLOSE,Open deal with close date already in the past

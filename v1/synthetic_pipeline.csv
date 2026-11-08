@@ -1,0 +1,151 @@
+opp_id,account,owner,stage,amount,created_date,close_date,last_activity_date,next_step
+OPP-1001,Cedar Energy,Marcus Hill,Qualification,15000,2026-09-27,2027-01-21,2026-11-03,Pilot kickoff planning
+OPP-1002,Vantage Labs,Priya Nair,Qualification,12000,2026-09-09,2026-12-23,2026-11-03,Pilot kickoff planning
+OPP-1003,Foxglove Health,Lena Ortiz,Proposal,55000,2026-09-09,2026-12-09,2026-11-01,
+OPP-1004,Tidewater Retail,Tariq Aziz,Qualification,12000,2026-10-16,2027-02-04,2026-10-31,Pilot kickoff planning
+OPP-1005,Larkspur Foods,Devon Park,Closed Won,12000,2026-05-01,2026-09-05,2026-09-05,
+OPP-1006,Silverline Health,Lena Ortiz,Qualification,18000,2026-08-22,2027-02-09,2026-11-07,Exec sponsor meeting
+OPP-1007,Silverline Labs,Priya Nair,Proposal,24000,2026-07-16,2027-01-26,2026-10-31,Reference call scheduled
+OPP-1008,Meridian Logistics,Lena Ortiz,Qualification,12000,2026-09-08,2026-12-09,2026-11-04,Reference call scheduled
+OPP-1009,Granite Labs,Jordan Blake,Proposal,18000,2026-06-19,2027-02-16,2026-10-28,Send order form
+OPP-1010,Tidewater Logistics,Tariq Aziz,Proposal,90000,2026-08-24,2027-02-14,2026-10-31,
+OPP-1011,Northwind Systems,Lena Ortiz,Qualification,24000,2026-10-01,2026-12-22,2026-10-26,Product demo for team
+OPP-1012,Crestview Energy,Sofia Reyes,Qualification,18000,2026-09-26,2027-01-13,2026-11-03,Exec sponsor meeting
+OPP-1013,Ironwood Foods,Avery Chen,Negotiation,12000,2026-09-13,2026-10-22,2026-11-05,Confirm budget approval
+OPP-1014,Bluepeak Energy,Devon Park,Negotiation,12000,2026-10-12,2027-01-29,2026-09-29,Confirm budget approval
+OPP-1015,Pioneer Retail,Marcus Hill,Proposal,55000,2026-09-30,2026-12-16,2026-10-28,
+OPP-1016,Zenith Energy,Tariq Aziz,Proposal,8000,2026-09-28,2027-02-09,2026-11-01,
+OPP-1017,Northwind Energy,Tariq Aziz,Qualification,90000,2026-08-09,2026-11-18,2026-10-30,Reference call scheduled
+OPP-1018,Harbor Energy,Marcus Hill,Qualification,18000,2026-06-30,2027-01-30,2026-10-26,Pilot kickoff planning
+OPP-1019,Granite Foods,Devon Park,Negotiation,90000,2026-10-03,2026-12-27,2026-10-27,Schedule discovery call
+OPP-1020,Cedar Retail,Jordan Blake,Proposal,24000,2026-09-07,2027-01-12,2026-10-27,Reference call scheduled
+OPP-1021,Zenith Media,Devon Park,Qualification,55000,2026-08-25,2026-12-03,2026-10-30,Pilot kickoff planning
+OPP-1022,Beacon Foods,Devon Park,Closed Lost,42000,2026-03-31,2026-10-18,2026-10-18,
+OPP-1023,Driftwood Retail,Avery Chen,Negotiation,120000,2026-07-29,2027-01-12,2026-09-17,Pilot kickoff planning
+OPP-1024,Bluepeak Labs,Lena Ortiz,Qualification,42000,2026-10-03,2027-03-03,2026-11-04,Confirm budget approval
+OPP-1025,Ironwood Energy,Sofia Reyes,Qualification,15000,2026-07-12,2027-02-01,2026-11-04,Reference call scheduled
+OPP-1026,Granite Energy,Marcus Hill,Prospecting,8000,2026-08-17,2027-02-03,2026-10-31,Send pricing proposal
+OPP-1027,Northwind Foods,Jordan Blake,Proposal,24000,2026-07-08,2027-01-26,2026-10-26,Schedule discovery call
+OPP-1028,Pioneer Energy,Tariq Aziz,Prospecting,8000,2026-09-09,2026-12-03,2026-11-04,Send order form
+OPP-1029,Summit Media,Jordan Blake,Prospecting,120000,2026-10-05,2026-12-06,2026-11-05,Pilot kickoff planning
+OPP-1030,Halcyon Logistics,Marcus Hill,Qualification,18000,2026-09-11,2027-02-13,2026-10-28,Schedule discovery call
+OPP-1031,Ironwood Retail,Avery Chen,Qualification,90000,2026-10-13,2027-01-29,2026-10-26,Confirm budget approval
+OPP-1032,Ironwood Labs,Avery Chen,Qualification,12000,2026-09-09,2027-02-16,2026-10-31,Legal redline review
+OPP-1033,Foxglove Retail,Devon Park,Closed Lost,75000,2026-04-20,2026-08-09,2026-08-09,
+OPP-1034,Crestview Logistics,Marcus Hill,Prospecting,18000,2026-10-02,2026-11-19,2026-11-02,Pilot kickoff planning
+OPP-1035,Redwood Foods,Priya Nair,Qualification,24000,2026-08-20,2027-02-17,2026-11-06,Exec sponsor meeting
+OPP-1036,Westbrook Media,Marcus Hill,Closed Lost,75000,2026-06-02,2026-09-01,2026-09-01,
+OPP-1037,Tidewater Energy,Jordan Blake,Proposal,55000,2026-06-27,2027-02-11,2026-10-31,Exec sponsor meeting
+OPP-1038,Meridian Health,Marcus Hill,Closed Lost,24000,2026-03-06,2026-10-24,2026-10-24,
+OPP-1039,Beacon Health,Marcus Hill,Prospecting,75000,2026-09-15,2027-01-12,2026-11-03,Send order form
+OPP-1040,Redwood Logistics,Marcus Hill,Closed Won,42000,2026-03-11,2026-09-10,2026-09-10,
+OPP-1041,Redwood Energy,Devon Park,Proposal,90000,2026-08-22,2027-01-22,2026-10-26,
+OPP-1042,Granite Retail,Priya Nair,Proposal,18000,2026-10-02,2027-01-08,2026-11-01,Product demo for team
+OPP-1043,Bluepeak Health,Avery Chen,Closed Lost,24000,2026-06-21,2026-08-29,2026-08-29,
+OPP-1044,Bluepeak Retail,Sofia Reyes,Closed Won,75000,2026-07-07,2026-10-10,2026-10-10,
+OPP-1045,Cedar Media,Priya Nair,Prospecting,42000,2026-09-15,2027-02-07,2026-10-28,Legal redline review
+OPP-1046,Juniper Retail,Priya Nair,Closed Lost,42000,2026-04-16,2026-08-19,2026-08-19,
+OPP-1047,Lumen Retail,Sofia Reyes,Negotiation,12000,2026-08-18,2027-01-08,2026-09-19,Send order form
+OPP-1048,Halcyon Labs,Priya Nair,Qualification,24000,2026-08-19,2026-12-29,2026-11-03,Product demo for team
+OPP-1049,Westbrook Energy,Jordan Blake,Prospecting,120000,2026-10-15,2027-02-21,2026-11-06,Exec sponsor meeting
+OPP-1050,Silverline Energy,Avery Chen,Qualification,8000,2026-07-11,2027-02-10,2026-11-02,Confirm budget approval
+OPP-1051,Crestview Retail,Priya Nair,Proposal,55000,2026-09-22,2027-01-29,2026-11-07,Legal redline review
+OPP-1052,Silverline Media,Avery Chen,Qualification,30000,2026-09-11,2026-12-03,2026-11-01,Schedule discovery call
+OPP-1053,Meridian Systems,Devon Park,Negotiation,260000,2026-08-25,2026-11-25,2026-10-18,Security review with IT
+OPP-1054,Vantage Health,Marcus Hill,Qualification,8000,2026-07-19,2027-02-12,2026-11-04,Exec sponsor meeting
+OPP-1055,Harbor Logistics,Devon Park,Prospecting,24000,2026-08-06,2026-12-02,2026-10-31,Send order form
+OPP-1056,Juniper Health,Avery Chen,Qualification,42000,2026-09-02,2027-01-15,2026-11-03,Exec sponsor meeting
+OPP-1057,Juniper Logistics,Priya Nair,Qualification,75000,2026-08-23,2026-12-15,2026-10-31,Legal redline review
+OPP-1058,Northwind Logistics,Sofia Reyes,Proposal,120000,2026-10-08,2026-11-20,2026-10-26,Exec sponsor meeting
+OPP-1059,Alder Logistics,Avery Chen,Prospecting,75000,2026-08-03,2026-11-30,2026-10-28,Security review with IT
+OPP-1060,Bluepeak Foods,Priya Nair,Negotiation,30000,2026-07-30,2027-03-05,2026-10-28,Send pricing proposal
+OPP-1061,Westbrook Retail,Lena Ortiz,Qualification,55000,2026-08-03,2027-01-10,2026-10-29,Legal redline review
+OPP-1062,Crestview Media,Jordan Blake,Qualification,120000,2026-09-22,2026-12-29,2026-11-05,Confirm budget approval
+OPP-1063,Alder Health,Jordan Blake,Qualification,75000,2026-09-01,2026-12-14,2026-11-04,Send order form
+OPP-1064,Keystone Foods,Tariq Aziz,Closed Won,42000,2026-06-15,2026-09-02,2026-09-02,
+OPP-1065,Zenith Foods,Tariq Aziz,Prospecting,55000,2026-06-12,2026-12-07,2026-10-30,Schedule discovery call
+OPP-1066,Silverline Retail,Devon Park,Qualification,24000,2026-07-04,2027-01-16,2026-10-31,Exec sponsor meeting
+OPP-1067,Larkspur Energy,Jordan Blake,Proposal,18000,2026-06-19,2027-01-08,2026-10-26,Exec sponsor meeting
+OPP-1068,Cedar Logistics,Tariq Aziz,Negotiation,340000,2026-08-16,2026-11-30,2026-10-20,Confirm budget approval
+OPP-1069,Foxglove Media,Marcus Hill,Qualification,8000,2026-06-20,2026-12-12,2026-11-04,Send order form
+OPP-1070,Beacon Media,Avery Chen,Prospecting,120000,2026-06-30,2027-01-10,2026-11-02,Confirm budget approval
+OPP-1071,Beacon Energy,Sofia Reyes,Negotiation,15000,2026-07-13,2027-01-05,2026-11-07,Legal redline review
+OPP-1072,Evergreen Retail,Tariq Aziz,Negotiation,12000,2026-09-01,2027-02-01,2026-11-06,Send pricing proposal
+OPP-1073,Zenith Labs,Avery Chen,Qualification,90000,2026-08-07,2027-03-03,2026-11-06,Exec sponsor meeting
+OPP-1074,Juniper Energy,Avery Chen,Negotiation,12000,2026-08-17,2026-12-23,2026-11-02,Security review with IT
+OPP-1075,Driftwood Media,Tariq Aziz,Prospecting,30000,2026-08-27,2027-02-06,2026-10-28,Legal redline review
+OPP-1076,Harbor Systems,Lena Ortiz,Proposal,90000,2026-07-13,2026-11-20,2026-11-02,Send order form
+OPP-1077,Bluepeak Media,Lena Ortiz,Qualification,55000,2026-09-25,2026-12-31,2026-10-31,Confirm budget approval
+OPP-1078,Keystone Logistics,Jordan Blake,Prospecting,8000,2026-07-06,2027-02-13,2026-10-31,Pilot kickoff planning
+OPP-1079,Evergreen Health,Tariq Aziz,Negotiation,24000,2026-06-16,2026-10-28,2026-10-28,Legal redline review
+OPP-1080,Bluepeak Labs,Tariq Aziz,Proposal,42000,2026-07-21,2027-02-08,2026-11-04,Send pricing proposal
+OPP-1081,Redwood Health,Jordan Blake,Qualification,8000,2026-09-23,2027-01-07,2026-11-07,Product demo for team
+OPP-1082,Evergreen Energy,Jordan Blake,Proposal,55000,2026-09-16,2027-01-24,2026-10-29,Schedule discovery call
+OPP-1083,Alder Labs,Devon Park,Qualification,30000,2026-08-15,2026-12-01,2026-11-02,Confirm budget approval
+OPP-1084,Ironwood Media,Priya Nair,Proposal,30000,2026-07-06,2026-10-31,2026-10-29,Security review with IT
+OPP-1085,Foxglove Systems,Jordan Blake,Proposal,15000,2026-08-02,2027-01-26,2026-11-01,Schedule discovery call
+OPP-1086,Beacon Systems,Priya Nair,Prospecting,24000,2026-09-18,2027-01-28,2026-10-26,Schedule discovery call
+OPP-1087,Lumen Media,Sofia Reyes,Prospecting,8000,2026-07-26,2027-01-21,2026-11-06,Exec sponsor meeting
+OPP-1088,Juniper Labs,Devon Park,Qualification,30000,2026-09-03,2026-11-18,2026-11-03,Reference call scheduled
+OPP-1089,Driftwood Logistics,Lena Ortiz,Closed Lost,42000,2026-07-10,2026-09-22,2026-09-22,
+OPP-1090,Crestview Systems,Sofia Reyes,Closed Lost,75000,2026-04-19,2026-10-04,2026-10-04,
+OPP-1091,Beacon Logistics,Tariq Aziz,Qualification,90000,2026-08-31,2026-11-22,2026-11-03,Confirm budget approval
+OPP-1092,Foxglove Labs,Lena Ortiz,Negotiation,90000,2026-10-12,2027-02-07,2026-11-06,Confirm budget approval
+OPP-1093,Evergreen Foods,Jordan Blake,Proposal,24000,2026-06-11,2027-02-10,2026-10-02,Confirm budget approval
+OPP-1094,Cedar Health,Jordan Blake,Negotiation,8000,2026-10-18,2027-02-23,2026-11-02,Security review with IT
+OPP-1095,Crestview Foods,Marcus Hill,Negotiation,55000,2026-08-06,2027-02-14,2026-09-08,Reference call scheduled
+OPP-1096,Evergreen Logistics,Lena Ortiz,Qualification,90000,2026-06-13,2027-01-12,2026-10-28,Schedule discovery call
+OPP-1097,Tidewater Foods,Tariq Aziz,Qualification,24000,2026-09-16,2027-01-09,2026-11-04,Confirm budget approval
+OPP-1098,Juniper Media,Marcus Hill,Closed Lost,12000,2026-06-23,2026-09-28,2026-09-28,
+OPP-1099,Pioneer Labs,Lena Ortiz,Qualification,55000,2026-07-23,2026-11-23,2026-11-05,Legal redline review
+OPP-1100,Tidewater Systems,Devon Park,Qualification,90000,2026-10-08,2027-02-19,2026-11-01,Product demo for team
+OPP-1101,Zenith Logistics,Tariq Aziz,Proposal,42000,2026-08-10,2027-01-25,2026-10-30,Send order form
+OPP-1102,Halcyon Systems,Lena Ortiz,Negotiation,24000,2026-06-17,2027-01-11,2026-10-31,Pilot kickoff planning
+OPP-1103,Granite Health,Lena Ortiz,Qualification,18000,2026-07-31,2027-02-28,2026-11-04,Exec sponsor meeting
+OPP-1104,Silverline Logistics,Jordan Blake,Proposal,8000,2026-08-11,2026-11-22,2026-10-29,Security review with IT
+OPP-1105,Summit Systems,Devon Park,Negotiation,18000,2026-08-11,2027-02-25,2026-11-05,Send pricing proposal
+OPP-1106,Keystone Labs,Lena Ortiz,Closed Won,75000,2026-05-12,2026-09-06,2026-09-06,
+OPP-1107,Beacon Retail,Devon Park,Proposal,75000,2026-07-06,2026-12-15,2026-11-06,Send pricing proposal
+OPP-1108,Lumen Systems,Sofia Reyes,Qualification,120000,2026-08-30,2027-02-14,2026-10-27,Confirm budget approval
+OPP-1109,Halcyon Retail,Devon Park,Negotiation,12000,2026-06-27,2027-03-07,2026-10-26,Reference call scheduled
+OPP-1110,Westbrook Labs,Priya Nair,Prospecting,120000,2026-08-18,2026-12-07,2026-10-27,Legal redline review
+OPP-1111,Northwind Retail,Tariq Aziz,Qualification,30000,2026-08-03,2027-01-05,2026-10-26,Confirm budget approval
+OPP-1112,Zenith Health,Jordan Blake,Prospecting,42000,2026-06-15,2027-01-11,2026-11-06,Product demo for team
+OPP-1113,Summit Energy,Jordan Blake,Negotiation,18000,2026-09-07,2027-02-28,2026-10-26,Security review with IT
+OPP-1114,Keystone Media,Jordan Blake,Qualification,120000,2026-06-27,2026-12-10,2026-11-03,Pilot kickoff planning
+OPP-1115,Westbrook Systems,Jordan Blake,Prospecting,8000,2026-10-05,2026-12-24,2026-10-30,Security review with IT
+OPP-1116,Westbrook Foods,Lena Ortiz,Proposal,120000,2026-08-29,2026-12-01,2026-11-01,Reference call scheduled
+OPP-1117,Juniper Foods,Jordan Blake,Proposal,90000,2026-08-23,2026-11-26,2026-11-07,Schedule discovery call
+OPP-1118,Beacon Labs,Devon Park,Qualification,42000,2026-07-16,2027-01-20,2026-11-06,Product demo for team
+OPP-1119,Halcyon Foods,Priya Nair,Proposal,8000,2026-09-25,2027-02-11,2026-11-04,Pilot kickoff planning
+OPP-1120,Meridian Media,Avery Chen,Negotiation,12000,2026-07-02,2026-12-09,2026-11-04,Reference call scheduled
+OPP-1121,Driftwood Foods,Devon Park,Proposal,210000,2026-10-16,2026-11-28,2026-10-15,Security review with IT
+OPP-1122,Granite Logistics,Jordan Blake,Proposal,15000,2026-09-19,2027-03-01,2026-09-30,Security review with IT
+OPP-1123,Tidewater Health,Lena Ortiz,Qualification,75000,2026-08-16,2027-01-14,2026-11-06,Security review with IT
+OPP-1124,Alder Media,Devon Park,Qualification,24000,2026-10-05,2027-02-06,2026-11-06,Confirm budget approval
+OPP-1125,Cedar Foods,Lena Ortiz,Proposal,18000,2026-07-07,2027-01-28,2026-11-06,Exec sponsor meeting
+OPP-1126,Lumen Logistics,Avery Chen,Prospecting,55000,2026-09-02,2026-10-12,2026-11-07,Confirm budget approval
+OPP-1127,Larkspur Health,Sofia Reyes,Prospecting,15000,2026-08-11,2026-11-26,2026-11-05,Schedule discovery call
+OPP-1128,Crestview Labs,Sofia Reyes,Negotiation,8000,2026-06-22,2026-11-23,2026-11-01,Exec sponsor meeting
+OPP-1129,Meridian Foods,Devon Park,Negotiation,75000,2026-07-01,2027-01-13,2026-10-30,Security review with IT
+OPP-1130,Ironwood Systems,Jordan Blake,Qualification,75000,2026-07-26,2027-02-14,2026-11-02,Send order form
+OPP-1131,Harbor Foods,Marcus Hill,Proposal,30000,2026-08-13,2027-02-10,2026-11-04,Product demo for team
+OPP-1132,Redwood Retail,Priya Nair,Qualification,30000,2026-06-29,2027-01-21,2026-10-29,Send pricing proposal
+OPP-1133,Lumen Energy,Tariq Aziz,Prospecting,24000,2026-10-09,2027-02-01,2026-11-06,Confirm budget approval
+OPP-1134,Vantage Foods,Marcus Hill,Prospecting,75000,2026-08-29,2027-01-11,2026-11-02,Send pricing proposal
+OPP-1135,Vantage Media,Jordan Blake,Negotiation,55000,2026-09-19,2027-01-07,2026-11-06,Send order form
+OPP-1136,Ironwood Health,Devon Park,Proposal,55000,2026-06-25,2027-02-21,2026-11-03,Exec sponsor meeting
+OPP-1137,Vantage Energy,Devon Park,Negotiation,8000,2026-09-03,2026-12-29,2026-10-27,Confirm budget approval
+OPP-1138,Alder Retail,Jordan Blake,Proposal,8000,2026-09-23,2026-12-13,2026-10-26,Exec sponsor meeting
+OPP-1139,Halcyon Health,Sofia Reyes,Qualification,8000,2026-09-25,2026-12-15,2026-11-03,Confirm budget approval
+OPP-1140,Meridian Labs,Marcus Hill,Negotiation,15000,2026-06-16,2027-01-01,2026-11-04,Legal redline review
+OPP-1141,Summit Health,Lena Ortiz,Qualification,55000,2026-07-27,2027-02-22,2026-11-02,Confirm budget approval
+OPP-1142,Keystone Systems,Avery Chen,Proposal,55000,2026-09-09,2026-12-24,2026-11-04,Exec sponsor meeting
+OPP-1143,Foxglove Logistics,Sofia Reyes,Qualification,18000,2026-09-29,2027-02-13,2026-10-29,Exec sponsor meeting
+OPP-1144,Silverline Foods,Avery Chen,Prospecting,55000,2026-06-17,2027-03-07,2026-11-04,Confirm budget approval
+OPP-1145,Pioneer Foods,Priya Nair,Negotiation,12000,2026-08-16,2026-12-11,2026-11-04,
+OPP-1146,Foxglove Energy,Sofia Reyes,Qualification,42000,2026-08-15,2027-01-16,2026-11-06,Schedule discovery call
+OPP-1147,Harbor Health,Sofia Reyes,Proposal,42000,2026-07-26,2026-12-01,2026-11-07,Legal redline review
+OPP-1148,Lumen Health,Devon Park,Qualification,8000,2026-08-20,2027-02-15,2026-11-03,Legal redline review
+OPP-1149,Evergreen Systems,Devon Park,Closed Lost,24000,2026-06-17,2026-09-03,2026-09-03,
+OPP-1150,Vantage Retail,Avery Chen,Qualification,75000,2026-08-02,2026-10-01,2026-10-29,Reference call scheduled

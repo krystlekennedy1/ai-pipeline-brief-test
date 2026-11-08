@@ -1,0 +1,49 @@
+RUN: Prompt A (vague baseline), run 1
+PROMPT USED: Find problem deals in this pipeline
+DATA: synthetic_pipeline_v2.csv
+NOTE: Output pasted from the chat. Table formatting was flattened to plain text; content is unchanged.
+
+----------------------------------------------------------------
+
+I checked the 160 open deals ($8.2M) against today's date, Nov 7. The biggest risk is that seven large deals close within three weeks and have gone quiet. Together they are $1.82M.
+
+Highest priority: big deals closing soon with no recent activity
+
+OPP-2130 Halcyon Logistics | Tariq Aziz | Negotiation | $310K | Closes Nov 16 | 33 days idle | Next step is still "Send pricing proposal"
+OPP-2128 Foxglove Labs | Marcus Hill | Negotiation | $200K | Closes Nov 17 | 20 days idle | Created Oct 3 with a 6-week close
+OPP-2060 Alder Systems | Tariq Aziz | Proposal | $230K | Closes Nov 19 | 13 days idle | Next step is "Schedule discovery call"
+OPP-2178 Evergreen Systems | Lena Ortiz | Proposal | $220K | Closes Nov 22 | 14 days idle | Budget not yet confirmed
+OPP-2135 Tidewater Labs | Marcus Hill | Negotiation | $260K | Closes Nov 26 | 18 days idle | Legal redline is open
+OPP-2127 Harbor Systems | Devon Park | Proposal | $340K | Closes Nov 27 | 19 days idle | Legal redline is open
+OPP-2086 Northwind Foods | Priya Nair | Proposal | $260K | Closes Nov 29 | 16 days idle | Only a reference call is scheduled
+
+OPP-2094 Meridian Labs ($250K, closes Dec 8) is also at 20 days idle.
+
+Other problem groups
+
+Close date already passed (6 deals, $144K): OPP-2003 Ironwood Labs is 33 days past and still in Negotiation. OPP-2032 Summit Health is 29 days past. OPP-2006, 2102, 2048 and 2038 are also past due. Each needs a new date or should be closed out.
+
+No activity for 3+ weeks (12 deals, $654K): The worst are OPP-2166 Summit Media (66 days), OPP-2096 Westbrook Retail (64 days), OPP-2058 Foxglove Systems (59 days), OPP-2045 Silverline Systems (45 days) and OPP-2054 Westbrook Labs ($120K, 38 days).
+
+Missing or useless next step (14 deals): 12 are blank, one says "TBD" and one says "see notes". The largest are OPP-2171 Cedar Foods ($120K), OPP-2154 Harbor Logistics ($120K, Negotiation, "TBD"), OPP-2075 Juniper Labs ($90K, closes Dec 23) and OPP-2097 Larkspur Labs ($75K).
+
+Stage and next step don't match (28 deals, $1.48M):
+Proposal or Negotiation deals still list discovery calls, demos or budget confirmation (OPP-2003, 2058, 2054, 2060, 2096).
+Prospecting or Qualification deals list order forms or legal redlines (OPP-2004, 2008, 2088, 2164).
+Either the stage is inflated or the next step is stale.
+
+Early-stage deals with near-term close dates (11 deals, $336K): For example OPP-2136 Beacon Media ($55K, Prospecting, Dec 17) and OPP-2057 Foxglove Media ($55K, Prospecting, Dec 22). OPP-2035 Cedar Logistics and OPP-2147 Tidewater Logistics both have a close date of today.
+
+Open more than 180 days (14 deals, $843K): These are aging well past a typical cycle.
+
+Data quality
+
+Possible duplicates: Foxglove Logistics (OPP-2021 and 2059) and Driftwood Foods (OPP-2066 and 2167) each have two $30K deals under different owners. If these are double-counted, $60K of pipeline is overstated.
+
+Stage typo: OPP-2096 and OPP-2173 have a lowercase "proposal" stage, which would drop them from any stage-based report.
+
+Whitespace next step: OPP-2020 has a single space in the next step field, so it won't register as blank.
+
+By owner
+
+Tariq Aziz has the most concentrated risk, with $540K across two stale or soon-closing large deals plus one past-due deal. Marcus Hill has $460K in two large late-stage deals and three deals idle 21+ days. Avery Chen holds the most deals (30), so a few stale ones are likely hiding there.
